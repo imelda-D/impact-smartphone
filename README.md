@@ -32,6 +32,7 @@ Aujourd'hui, le smartphone est devenu le compagnon quotidien des adolescents. Il
 - Interactions sociales : paradoxalement, si le smartphone permet de rester connecté virtuellement, les données montrent que l’usage excessif réduit les interactions sociales réelles car sur une echelle de 1 à 10 la moyenne du niveau d’interaction
 -	La majorité des adolescents déclarent une communication familiale bonne ou excellente, ce qui montre que le smartphone n’a pas altéré la qualité des échanges dans le foyer
 ## Visualisation
+![impact.png]
 
 
 
