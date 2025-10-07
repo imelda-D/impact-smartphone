@@ -29,7 +29,7 @@ Aujourd'hui, le smartphone est devenu le compagnon quotidien des adolescents. Il
 -	Les adolescents présentant une dépression élevée ou sévère montre que peuvent avoir des heures de sommeil et  d’utilisation très variables, allant de 4 à 10 heures par 24h. Cela suggère que le nombre d’heures de sommeil de d’utlisation n’est pas un facteur déterminant pour la dépression dans cette population.ous notons que la proportion du genre féminin est plus importante. 
 - la majorité des adolescents se situent au niveau moyen ou élevé d’estime de soi, ce qui peut jouer un rôle protecteur face à l’impact négatif d’un usage intensif du smartphone sur la santé mentale
 - 41,81% des adolescents ont une anxiété severe ou high,  ce qui represente une proportion assez importante nécessitant une attention particulière.
-- Interactions sociales : paradoxalement, si le smartphone permet de rester connecté virtuellement, les données montrent que l’usage excessif réduit les interactions sociales réelles car sur une echelle de 1 à 10 la moyenne du niveau d’interaction
+- Interactions sociales : paradoxalement, si le smartphone permet de rester connecté virtuellement, les données montrent que l’usage excessif réduit les interactions sociales réelles car sur une echelle de 1 à 10 la moyenne du niveau d’interaction est 5,1
 -	La majorité des adolescents déclarent une communication familiale bonne ou excellente, ce qui montre que le smartphone n’a pas altéré la qualité des échanges dans le foyer
 ## Visualisation
 ![Dashboard](impact.png)
