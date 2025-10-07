@@ -1,4 +1,5 @@
-
+# Description
+Aujourd'hui, le smartphone est devenu le compagnon quotidien des adolescents. Il ouvre la porte à l'information, au divertissement et aux interactions sociales. Mais derrière ces avantages, des questions persistantes : cet usage influence-t-il leur bien-être, leur sommeil, leur réussite scolaire ou leurs relations sociales ?
 # Objectifs du projet
 •	Évaluer l’impact du temps passé sur le smartphone sur la vie scolaire, sociale et psychologique des adolescents.
 # Méthodologie
